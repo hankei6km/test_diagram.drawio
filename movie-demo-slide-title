@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T08:47:37.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.12" etag="lyjZ83JPCZSZdELG-2w3" type="github"><diagram id="tHGDKtppUwzze3CQUMId">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-13T09:02:22.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FwH32lQblB7sion_cjuB" version="14.6.12" type="github">
+  <diagram id="tHGDKtppUwzze3CQUMId" name="Page-1">
+    <mxGraphModel dx="1955" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-3" value="" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry width="1600" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-5" value="Untitled Layer" parent="0" />
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-2" value="Untitled Layer" parent="0" />
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;" vertex="1" parent="-JoY5KDKrrAt71-EnoEc-2">
+          <mxGeometry x="100" y="100" width="1400" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-11" value="" style="group" vertex="1" connectable="0" parent="-JoY5KDKrrAt71-EnoEc-2">
+          <mxGeometry x="25" y="280" width="1550" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-7" value="&lt;font style=&quot;font-size: 80px&quot;&gt;Marp + microCMS(リッチエディタ)で&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=240;" vertex="1" parent="-JoY5KDKrrAt71-EnoEc-11">
+          <mxGeometry width="1550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JoY5KDKrrAt71-EnoEc-10" value="&lt;font style=&quot;font-size: 80px&quot;&gt;スライド作成&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=240;" vertex="1" parent="-JoY5KDKrrAt71-EnoEc-11">
+          <mxGeometry y="160" width="1550" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
